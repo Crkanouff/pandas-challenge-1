@@ -5,8 +5,7 @@ Part 2:  this was fairly straight forward although the directions in the noteboo
 that I found out later I didn't need to do.  (There goes 2 hours of my time!)
 Part 3: suprisingly, calculations worked!  Happy to move on.
 Part 4:  the 2nd bullet point "Create a summary DataFrame" was maddening.  I finally joined a study group and got some input
-on this from classmate, Brandon. As I am still struggling a bit with how things are stored and called back, I will be working
-with our TA's to undertand this part.
+on this from classmates and finally, reviewed other code on github and compared to my work.
 
 Also, worked with CHATGpt to refine some of my original code in Part 2.
 
